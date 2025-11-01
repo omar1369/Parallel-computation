@@ -1,5 +1,5 @@
-# Ignore compiled Java classes
-*.class
+# Ignore common build artifacts
+# (note: .class files removed from ignore so compiled classes can be tracked)
 
 # OS files
 .DS_Store
