@@ -1,5 +1,3 @@
-package Section4;
-
 public class MultiThreadExceptionExample {
     public static void main(String[] args) {
         // Create three worker threads 

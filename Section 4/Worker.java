@@ -1,5 +1,3 @@
-package Section4;
-
     public class Worker extends Thread {
     public void run() {
         // We put the risky code inside a try-catch block to handle exceptions

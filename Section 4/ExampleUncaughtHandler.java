@@ -1,5 +1,3 @@
-package Section4;
-
     class WorkerThread extends Thread {
     public void run() {
         // No try-catch here

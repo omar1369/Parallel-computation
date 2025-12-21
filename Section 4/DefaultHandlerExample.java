@@ -1,5 +1,3 @@
-package Section4;
-
 public class DefaultHandlerExample {
     public static void main(String[] args) {
 
